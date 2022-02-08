@@ -11,7 +11,7 @@ int main()
     {
         cin>>arr[i];
     }
-    set<int> s;
+   /* set<int> s;
    for(int i=0; i<n; i++)
    {   if(s.count(arr[i]))
          {cout<<arr[i];
@@ -20,6 +20,16 @@ int main()
          else
         s.insert(arr[i]);
 
-   } 
+   } */
+   map<int,int> mp;
+   for(int i=0; i<n; i++)
+   {
+       if(mp.find(arr[i])!=mp.end())
+       {
+           cout<<arr[i];
+           break;
+       }
+       mp.insert({arr[i],1});
+   }
    
 }
