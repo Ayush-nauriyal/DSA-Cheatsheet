@@ -8,11 +8,13 @@ int main()
     for (int i = 0; i < n;i++)
     cin>>arr[i];
     int sum =0;
+    int ma=INT_MIN;
     for (int i = 0; i < n; i++)
     {
       if(sum<0)
       sum=0;
       sum+=arr[i];
+      ma=max(sum,ma);
     }
-    cout<<"sum = "<<sum<<endl;
+    cout<<"sum = "<<ma<<endl;
 }
