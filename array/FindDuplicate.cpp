@@ -1,4 +1,4 @@
-//date -:8feb
+//date -:8feb Ayush Nauriyal
 //find duplicate in an array of N+1 Integers
 #include<bits/stdc++.h>
 using namespace std;

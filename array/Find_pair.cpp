@@ -1,5 +1,5 @@
 //find all pairs on integer array whose sum is equal to given number
-// date -:9feb
+// date -:9feb Ayush Nauriyal
 #include <bits/stdc++.h>
 using namespace std;
 int main()

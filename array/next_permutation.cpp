@@ -1,4 +1,4 @@
-//date -:9 feb
+//date -:9 feb Ayush Nauriyal
 //Next Permutation
 // find from last element bigger than its previous element
 //the store it(pos=idx)

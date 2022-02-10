@@ -1,5 +1,5 @@
 //Given an array of size n and a number k, fin all elements that appear more than " n/k " times.
-//date -:9feb
+//date -:9feb Ayush Nauriyal
 #include <bits/stdc++.h>
 using namespace std;
 int main()

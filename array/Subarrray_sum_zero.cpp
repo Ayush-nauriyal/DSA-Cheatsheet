@@ -1,4 +1,4 @@
-//  date -:9feb
+//  date -:9febAyush Nauriyal
 //Find if there is any subarray with sum equal to 0
 
 #include <bits/stdc++.h>

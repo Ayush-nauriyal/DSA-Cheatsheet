@@ -1,4 +1,4 @@
-//date -:8feb
+//date -:8feb Ayush Nauriyal
 //Minimum no. of Jumps to reach end of an array
 
 #include<bits/stdc++.h>

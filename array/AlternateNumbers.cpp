@@ -1,5 +1,5 @@
 // Rearrange the array in alternating positive and negative items with O(1) extra space
-//  date -:9feb
+//  date -:9feb Ayush Nauriyal
 #include <bits/stdc++.h>
 using namespace std;
 /*

@@ -1,5 +1,5 @@
 //find maximum product subarray 
-//date -:9feb
+//date -:9feb Ayush Nauriyal
 #include <bits/stdc++.h>
 using namespace std;
 int main()

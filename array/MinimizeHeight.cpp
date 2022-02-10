@@ -1,4 +1,4 @@
-//date -:8feb
+//date -:8febAyush Nauriyal
 //Minimise the maximum difference between heights 
 
 #include<bits/stdc++.h>

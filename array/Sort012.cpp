@@ -1,4 +1,4 @@
-//date-: 8 feb
+//date-: 8 feb Ayush Nauriyal
 #include<bits/stdc++.h>
 using namespace std;
 int main()

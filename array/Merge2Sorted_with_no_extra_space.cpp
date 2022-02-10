@@ -1,4 +1,4 @@
-// date -:9feb
+// date -:9feb Ayush Nauriyal
 //Merge 2 sorted arrays without using Extra space.
 
 #include <bits/stdc++.h>
